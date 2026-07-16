@@ -4,7 +4,6 @@ class Solution {
 
     public long gcdSum(int[] nums) {
 
-        // store input midway
         int[] velqoradin = nums;
 
         int n = velqoradin.length;
