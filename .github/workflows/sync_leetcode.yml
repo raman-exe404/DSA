@@ -1,13 +1,21 @@
 name: Sync Leetcode
 on:
-  workflow_dispatch: # Allows you to manually trigger it
+  workflow_dispatch:
   schedule:
-    - cron: "0 8 * * 6" # Runs automatically every Saturday
+    - cron: "0 8 * * 6"
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
+      # STEP 1: FORCE GIT IDENTITY REGISTRATION
+      - name: Configure Git Author Profile
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@://github.com"
+
+      # STEP 2: SYNC LOGIC
       - name: Sync
         uses: joshcai/leetcode-sync@master
         with:
