@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/raman-exe404/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1140-stone-game-ii](https://github.com/raman-exe404/DSA/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/raman-exe404/DSA/tree/master/1260-shift-2d-grid) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/raman-exe404/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/raman-exe404/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/raman-exe404/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Segment Tree
 |  |
