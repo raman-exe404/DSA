@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/raman-exe404/DSA/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/raman-exe404/DSA/tree/master/0053-maximum-subarray) |
 | [0134-gas-station](https://github.com/raman-exe404/DSA/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raman-exe404/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0283-move-zeroes](https://github.com/raman-exe404/DSA/tree/master/0283-move-zeroes) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/raman-exe404/DSA/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/raman-exe404/DSA/tree/master/0053-maximum-subarray) |
 | [1140-stone-game-ii](https://github.com/raman-exe404/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/raman-exe404/DSA/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/raman-exe404/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/raman-exe404/DSA/tree/master/0042-trapping-rain-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/raman-exe404/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
