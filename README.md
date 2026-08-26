@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raman-exe404/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0278-first-bad-version](https://github.com/raman-exe404/DSA/tree/master/0278-first-bad-version) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/raman-exe404/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Segment Tree
 |  |
@@ -170,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/raman-exe404/DSA/tree/master/0169-majority-element) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/raman-exe404/DSA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
