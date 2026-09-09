@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/raman-exe404/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/raman-exe404/DSA/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/raman-exe404/DSA/tree/master/0242-valid-anagram) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/raman-exe404/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/raman-exe404/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raman-exe404/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/raman-exe404/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0067-add-binary](https://github.com/raman-exe404/DSA/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/raman-exe404/DSA/tree/master/0115-distinct-subsequences) |
+| [0242-valid-anagram](https://github.com/raman-exe404/DSA/tree/master/0242-valid-anagram) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/raman-exe404/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/raman-exe404/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/raman-exe404/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/raman-exe404/DSA/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/raman-exe404/DSA/tree/master/0242-valid-anagram) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/raman-exe404/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/raman-exe404/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/raman-exe404/DSA/tree/master/3536-maximum-product-of-two-digits) |
