@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/raman-exe404/DSA/tree/master/0283-move-zeroes) |
 | [0713-subarray-product-less-than-k](https://github.com/raman-exe404/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/raman-exe404/DSA/tree/master/0724-find-pivot-index) |
+| [0835-image-overlap](https://github.com/raman-exe404/DSA/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/raman-exe404/DSA/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/raman-exe404/DSA/tree/master/1260-shift-2d-grid) |
 | [1991-find-the-middle-index-in-array](https://github.com/raman-exe404/DSA/tree/master/1991-find-the-middle-index-in-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/raman-exe404/DSA/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/raman-exe404/DSA/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raman-exe404/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
