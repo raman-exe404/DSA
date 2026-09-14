@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/raman-exe404/DSA/tree/master/0067-add-binary) |
+| [0836-rectangle-overlap](https://github.com/raman-exe404/DSA/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/raman-exe404/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/raman-exe404/DSA/tree/master/1510-stone-game-iv) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/raman-exe404/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -244,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/raman-exe404/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/raman-exe404/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
