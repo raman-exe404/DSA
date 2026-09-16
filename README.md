@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/raman-exe404/DSA/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raman-exe404/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/raman-exe404/DSA/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/raman-exe404/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/raman-exe404/DSA/tree/master/0283-move-zeroes) |
 | [0713-subarray-product-less-than-k](https://github.com/raman-exe404/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/raman-exe404/DSA/tree/master/0724-find-pivot-index) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/raman-exe404/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-image-overlap](https://github.com/raman-exe404/DSA/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/raman-exe404/DSA/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raman-exe404/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raman-exe404/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/raman-exe404/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/raman-exe404/DSA/tree/master/0278-first-bad-version) |
 | [0713-subarray-product-less-than-k](https://github.com/raman-exe404/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/raman-exe404/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/raman-exe404/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/raman-exe404/DSA/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/raman-exe404/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/raman-exe404/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
