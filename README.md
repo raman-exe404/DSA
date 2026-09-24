@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/raman-exe404/DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/raman-exe404/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/raman-exe404/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/raman-exe404/DSA/tree/master/0053-maximum-subarray) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/raman-exe404/DSA/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/raman-exe404/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/raman-exe404/DSA/tree/master/0242-valid-anagram) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/raman-exe404/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/raman-exe404/DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/raman-exe404/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/raman-exe404/DSA/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/raman-exe404/DSA/tree/master/0151-reverse-words-in-a-string) |
