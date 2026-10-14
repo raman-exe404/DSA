@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/raman-exe404/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/raman-exe404/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/raman-exe404/DSA/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/raman-exe404/DSA/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/raman-exe404/DSA/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/raman-exe404/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/raman-exe404/DSA/tree/master/0022-generate-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/raman-exe404/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/raman-exe404/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/raman-exe404/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/raman-exe404/DSA/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/raman-exe404/DSA/tree/master/0115-distinct-subsequences) |
@@ -282,4 +285,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/raman-exe404/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/raman-exe404/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
