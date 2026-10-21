@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/raman-exe404/DSA/tree/master/0386-lexicographical-numbers) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/raman-exe404/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/raman-exe404/DSA/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -286,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/raman-exe404/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/raman-exe404/DSA/tree/master/0022-generate-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/raman-exe404/DSA/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
