@@ -1,17 +1,30 @@
 class Solution {
-    public List<Integer> lexicalOrder(int n) {
-        int x = 1;
-        List<Integer> ans = new ArrayList<>();
-        ans.add(1);
-        while (ans.size() < n) {
-            if (x * 10 <= n) x = x * 10;
-            else {
-                if (x + 1 <= n) x = x + 1;
-                else x = x / 10 + 1;
-                while (x % 10 == 0) x /= 10;
-            }
-            ans.add(x);
+    public List<Integer> lexicalOrder(int n) 
+    {
+        List<Integer> result = new ArrayList<>();
+        for(int i = 1; i<=9; i++)
+        {
+            dfs(i , n, result);
         }
-        return ans;
+        return result;
+        
+    }
+    public void dfs(int num , int n , List<Integer> result)
+    {
+        if(num > n)
+        {
+            return ;
+        }
+        result.add(num);
+
+        for(int i = 0; i<=9; i++)
+        {
+            int next = num * 10 + i;
+            if(next > n)
+            {
+                break;
+            }
+            dfs(next , n, result);
+        }
     }
 }
