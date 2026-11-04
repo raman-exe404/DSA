@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/raman-exe404/DSA/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/raman-exe404/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/raman-exe404/DSA/tree/master/0242-valid-anagram) |
+| [0647-palindromic-substrings](https://github.com/raman-exe404/DSA/tree/master/0647-palindromic-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/raman-exe404/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/raman-exe404/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/raman-exe404/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/raman-exe404/DSA/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/raman-exe404/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/raman-exe404/DSA/tree/master/0283-move-zeroes) |
+| [0647-palindromic-substrings](https://github.com/raman-exe404/DSA/tree/master/0647-palindromic-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/raman-exe404/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/raman-exe404/DSA/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/raman-exe404/DSA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raman-exe404/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0647-palindromic-substrings](https://github.com/raman-exe404/DSA/tree/master/0647-palindromic-substrings) |
 | [0918-maximum-sum-circular-subarray](https://github.com/raman-exe404/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1140-stone-game-ii](https://github.com/raman-exe404/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/raman-exe404/DSA/tree/master/1510-stone-game-iv) |
