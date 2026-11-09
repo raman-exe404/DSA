@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/raman-exe404/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1140-stone-game-ii](https://github.com/raman-exe404/DSA/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/raman-exe404/DSA/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/raman-exe404/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/raman-exe404/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1882-process-tasks-using-servers](https://github.com/raman-exe404/DSA/tree/master/1882-process-tasks-using-servers) |
 | [1991-find-the-middle-index-in-array](https://github.com/raman-exe404/DSA/tree/master/1991-find-the-middle-index-in-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/raman-exe404/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-image-overlap](https://github.com/raman-exe404/DSA/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/raman-exe404/DSA/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/raman-exe404/DSA/tree/master/1267-count-servers-that-communicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raman-exe404/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
@@ -154,16 +156,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/raman-exe404/DSA/tree/master/0169-majority-element) |
+| [1267-count-servers-that-communicate](https://github.com/raman-exe404/DSA/tree/master/1267-count-servers-that-communicate) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/raman-exe404/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/raman-exe404/DSA/tree/master/0386-lexicographical-numbers) |
+| [1267-count-servers-that-communicate](https://github.com/raman-exe404/DSA/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/raman-exe404/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/raman-exe404/DSA/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/raman-exe404/DSA/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/raman-exe404/DSA/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raman-exe404/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -310,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1882-process-tasks-using-servers](https://github.com/raman-exe404/DSA/tree/master/1882-process-tasks-using-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/raman-exe404/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/raman-exe404/DSA/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
