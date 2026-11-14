@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/raman-exe404/DSA/tree/master/0904-fruit-into-baskets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/raman-exe404/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/raman-exe404/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3364-minimum-positive-sum-subarray](https://github.com/raman-exe404/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/raman-exe404/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Array
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/raman-exe404/DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/raman-exe404/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/raman-exe404/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/raman-exe404/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/raman-exe404/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/raman-exe404/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/raman-exe404/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/raman-exe404/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/raman-exe404/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1991-find-the-middle-index-in-array](https://github.com/raman-exe404/DSA/tree/master/1991-find-the-middle-index-in-array) |
+| [3364-minimum-positive-sum-subarray](https://github.com/raman-exe404/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/raman-exe404/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/raman-exe404/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Game Theory
