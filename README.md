@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/raman-exe404/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/raman-exe404/DSA/tree/master/0242-valid-anagram) |
 | [0647-palindromic-substrings](https://github.com/raman-exe404/DSA/tree/master/0647-palindromic-substrings) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/raman-exe404/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/raman-exe404/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/raman-exe404/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/raman-exe404/DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
