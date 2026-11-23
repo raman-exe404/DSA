@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/raman-exe404/DSA/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/raman-exe404/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1352-product-of-the-last-k-numbers](https://github.com/raman-exe404/DSA/tree/master/1352-product-of-the-last-k-numbers) |
+| [1441-build-an-array-with-stack-operations](https://github.com/raman-exe404/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/raman-exe404/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/raman-exe404/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/raman-exe404/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/raman-exe404/DSA/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/raman-exe404/DSA/tree/master/1260-shift-2d-grid) |
+| [1441-build-an-array-with-stack-operations](https://github.com/raman-exe404/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/raman-exe404/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/raman-exe404/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Math
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/raman-exe404/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/raman-exe404/DSA/tree/master/0042-trapping-rain-water) |
+| [1441-build-an-array-with-stack-operations](https://github.com/raman-exe404/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 ## Monotonic Stack
 |  |
 | ------- |
